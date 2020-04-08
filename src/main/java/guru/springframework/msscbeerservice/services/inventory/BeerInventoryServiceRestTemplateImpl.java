@@ -1,5 +1,6 @@
-package guru.springframework.msscbeerservice.services;
+package guru.springframework.msscbeerservice.services.inventory;
 
+import guru.springframework.msscbeerservice.services.inventory.BeerInventoryService;
 import guru.springframework.msscbeerservice.services.inventory.model.BeerInventoryDto;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.context.properties.ConfigurationProperties;
